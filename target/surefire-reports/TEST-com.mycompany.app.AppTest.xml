@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.app.AppTest" time="0.13" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.app.AppTest" time="0.114" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="KR"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/surefire/surefirebooter9987731873960922006.jar /Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/surefire 2021-10-17T19-14-28_187-jvmRun1 surefire17510010354131841914tmp surefire_015822044247169908764tmp"/>
+    <property name="sun.java.command" value="/Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/surefire/surefirebooter16644342596473566152.jar /Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/surefire 2021-10-17T19-37-41_675-jvmRun1 surefire3027361666185583456tmp surefire_04791753803395004185tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|127.0.0.1"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/test-classes:/Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/classes:/Users/seojungbae/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/seojungbae/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/seojungbae/.m2/repository/org/mariadb/jdbc/mariadb-java-client/2.6.0/mariadb-java-client-2.6.0.jar:"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/surefire/surefirebooter9987731873960922006.jar"/>
+    <property name="surefire.real.class.path" value="/Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/surefire/surefirebooter16644342596473566152.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|127.0.0.1"/>
     <property name="java.runtime.version" value="11.0.12+7"/>
@@ -61,5 +61,5 @@
     <property name="java.class.version" value="55.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|127.0.0.1"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.mycompany.app.AppTest" time="0.004"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.mycompany.app.AppTest" time="0.009"/>
 </testsuite>
