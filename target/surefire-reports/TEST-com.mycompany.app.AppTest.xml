@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="KR"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/surefire/surefirebooter4822693403402275722.jar /Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/surefire 2021-11-06T14-40-08_607-jvmRun1 surefire4130306460318401962tmp surefire_015725775848064449049tmp"/>
+    <property name="sun.java.command" value="/Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/surefire/surefirebooter15780166111329712960.jar /Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/surefire 2021-12-05T16-13-14_167-jvmRun1 surefire11760302911116899548tmp surefire_018328382441141834364tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|127.0.0.1"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/test-classes:/Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/classes:/Users/seojungbae/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/seojungbae/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/seojungbae/.m2/repository/org/mariadb/jdbc/mariadb-java-client/2.6.0/mariadb-java-client-2.6.0.jar:/Users/seojungbae/.m2/repository/com/h2database/h2/1.4.200/h2-1.4.200.jar:"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/surefire/surefirebooter4822693403402275722.jar"/>
+    <property name="surefire.real.class.path" value="/Users/seojungbae/DEV_BOX/DEV_MAVEN/workspace/my-app/target/surefire/surefirebooter15780166111329712960.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|127.0.0.1"/>
     <property name="java.runtime.version" value="11.0.12+7"/>
@@ -61,5 +61,5 @@
     <property name="java.class.version" value="55.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|127.0.0.1"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.mycompany.app.AppTest" time="0.004"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.mycompany.app.AppTest" time="0.006"/>
 </testsuite>
